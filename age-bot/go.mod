@@ -1,4 +1,4 @@
-module github.com/dudiebot/agebot-slack
+module github.com/dudiebot/age-bot
 
 go 1.20
 
